@@ -1,0 +1,13 @@
+ul li:nth-child(odd) 
+{
+  background: #f9f9f9;
+}
+ul li:hover
+{
+  background-color: #d4caca;
+  transition: 1s;  
+}
+button
+{
+    width:150px;
+}
